@@ -1,0 +1,7 @@
+{
+  "name": "SahakarSeva - Cooperative Gig Services Platform",
+  "description": "Cooperative-owned digital service marketplace empowering Labour Cooperative Federations and skilled gig workers with fair wages, welfare benefits, geo-matching, and automated demand forecasting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
